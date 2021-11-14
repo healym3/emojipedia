@@ -19,7 +19,14 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "🥸",
+    name: "Disguised Face",
+    meaning: "Someone wants to hide himself or their intentions. As a disguise: You want to get to the bottom of something unrecognized. Symbolic for carnival."
   }
+  
 ];
 
 export default emojipedia;
